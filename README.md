@@ -1,4 +1,4 @@
-# testingAntigravity
+# Antigravity
 
 A small React + Vite demo that renders an animated "antigravity" background. The background shows floating SVG particles that rise upward and react to the mouse — being gently pulled toward the cursor and given a perpendicular wave motion for a swirling effect.
 
